@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="style.css" media="screen">
+
+		<title>HTML</title>
+
+	</head>
+
+	<body>
+		<div class="container">
+			<header>
+				<h1>Hick's Law</h1>
+			</header>
+			<nav>
+				<p>
+					<h2>Bad Example</h2>
+					<ul class="bad_example">
+						<li>First Page</li>
+						<li>Second Page</li>
+						<li>Middle Page</li>
+						<li>Second to last Page</li>
+						<li>Last Page</li>
+					</ul>
+				</p>
+
+				<p>
+					<h2>Good Example</h2>
+					<ul class="good_example">
+						<li>Previous Page</li>
+						<li>Next Page</li>
+				</p>
+				<p> This is a good example of Hick's Law. Hick's Law says you should always reduce
+					the number of choices the user has. When you get to the bottom of the page
+					the last thing you want is to have multiple options of how to get to different
+					pages when sorting through a document.
+				</p>
+
+			</nav>
+
+		</div>
+	</body>
+</html>
